@@ -76,8 +76,6 @@ img {
 .header {
   background-color: #fff;
   border-bottom: 1px solid #e7e9fc;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-navigation {
@@ -118,6 +116,11 @@ img {
   list-style: none;
   display: flex;
   gap: 40px;
+}
+
+.header-menu-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-menu-nav {
