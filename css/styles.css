@@ -150,8 +150,6 @@ img {
 .header-adress {
   font-style: normal;
   margin-left: auto;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-contact-link {
@@ -160,6 +158,8 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-contact-link:hover,
