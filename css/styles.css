@@ -150,6 +150,8 @@ img {
 .header-adress {
   font-style: normal;
   margin-left: auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-contact-link {
